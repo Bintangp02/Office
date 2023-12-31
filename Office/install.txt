@@ -1,0 +1,3 @@
+C:\>cd C:\Ms Office
+
+C:\Ms Office>setup.exe /configure Configuration.xmlv
